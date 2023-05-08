@@ -1,2 +1,2 @@
 # CV
-My summary
+My Resume
